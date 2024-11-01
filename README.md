@@ -58,5 +58,12 @@ This is a full-stack project showcasing a web application using Bootstrap for th
 ## Usage
 
 Provide instructions on how to use your application. Include any configuration settings, environment variables, or user accounts if applicable.
+![WhatsApp Image 2024-10-06 at 22 59 40_3d47bdad](https://github.com/user-attachments/assets/dfe6b586-4863-43e1-b089-f86e1591b5f1)
+![WhatsApp Image 2024-10-06 at 22 57 45_7b121d14](https://github.com/user-attachments/assets/975645d7-6a50-434e-9e89-11cd84bee361)
+![WhatsApp Image 2024-10-06 at 16 31 16_e7f7a163](https://github.com/user-attachments/assets/89f058c1-4853-4725-bd73-f11fc44070c9)
+![WhatsApp Image 2024-10-06 at 22 58 55_63371e5f](https://github.com/user-attachments/assets/9ce037bc-1640-40ea-ac44-d2ec1278f402)
+
+
+
 
 
