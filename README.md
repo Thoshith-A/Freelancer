@@ -1,7 +1,5 @@
 # Full Stack Project
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
 
 This is a full-stack project showcasing a web application using Bootstrap for the frontend and Spring Boot with MySQL for the backend.
@@ -61,15 +59,4 @@ This is a full-stack project showcasing a web application using Bootstrap for th
 
 Provide instructions on how to use your application. Include any configuration settings, environment variables, or user accounts if applicable.
 
-## Contributing
-
-If you want to contribute to the project, provide guidelines for how others can do so.
-
-
-## Contact
-Supratim Sarkar,India.
-
-Email- supratimsarkar2001@gmail.com
-
----
 
