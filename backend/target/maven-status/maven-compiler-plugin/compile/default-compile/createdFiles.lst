@@ -1,0 +1,11 @@
+com\api\freelance\service\UserServiceImpl.class
+com\api\freelance\controller\ProjectController.class
+com\api\freelance\entity\User.class
+com\api\freelance\FreelanceApplication.class
+com\api\freelance\controller\UserController.class
+com\api\freelance\repository\ProjectRepository.class
+com\api\freelance\service\ProjectServiceImpl.class
+com\api\freelance\service\UserService.class
+com\api\freelance\repository\UserRepository.class
+com\api\freelance\entity\Project.class
+com\api\freelance\service\ProjectService.class
